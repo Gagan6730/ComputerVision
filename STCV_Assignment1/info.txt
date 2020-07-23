@@ -1,0 +1,8 @@
+Requirements:
+	1. PIL
+	2. Scikit-image
+	3. OpenCV
+
+
+Command:
+	run "Jupiter notebook" from the directory
